@@ -19,5 +19,11 @@ public class DeleteRolesForm {
 		} catch(Exception e) {
 			System.out.println("Cannot delete Role");
 		}
+
+		// String choice = ConsoleInputUtil.getDesiredString("Delete more role or proceed? [d/p]", "d", "p");
+		//
+		// switch(choice) {
+		// 	case "d" :
+		// }
 	}
 }
